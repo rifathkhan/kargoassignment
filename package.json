@@ -1,0 +1,19 @@
+{
+  "name": "kargoassignment",
+  "version": "1.0.0",
+  "description": "Kargo coding assignment",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rifathkhan/kargoassignment.git"
+  },
+  "author": "Rifat Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rifathkhan/kargoassignment/issues"
+  },
+  "homepage": "https://github.com/rifathkhan/kargoassignment#readme"
+}
